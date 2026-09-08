@@ -1,5 +1,7 @@
 # SECCapstoneProject
 
+PLEASE FOLLOW THIS LINK to view the GoogleDoc where I am developing my proposal: https://docs.google.com/document/d/1xK1h1IvqeMH8gz7lj76lwhojI3Zkpg4JHGaUAhXTeOc/edit?usp=sharing
+
 Idea 1: Create a text-based "choose your own adventure" video game adapting a short story I authored, set in the middle-future, highlighting the social, political, ecological, and economic effects of climate change. The player, a staff member on a naval crisis response vessel, must negotiate ethical, intellectual, and emotional challenges in dealing with a critical water shortage aboard a migrant ship. Past character decisions would influence available options, ideally with a moral-compass metric. API use would likely be minimal, and could perhaps inject an element of randomness into gameplay (through dice throw or card draw, etc). ***I am most inclined towards this idea as it uses and showcases my creativity and writing background and would be a very unique project for my portfolio, one that I may be interested in maintaining and expanding in the future***
 
 Idea 2: Create a film screening presentation app, which would allow users to play video files (locally hosted or, potentially with the right API, streamed) in the desired sequence, either automatically or on click, with optional customizable transitions/title cards. May be similar to existing features on Canva, etc.
